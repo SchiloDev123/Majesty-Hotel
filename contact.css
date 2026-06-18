@@ -91,6 +91,7 @@ textarea {
   padding: 10px;
   border: 1px solid #ccc;
   border-radius: var(--radius);
+  resize: none;
 }
 input:focus,
 textarea:focus {
